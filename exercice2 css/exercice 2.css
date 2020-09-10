@@ -1,0 +1,25 @@
+body {
+    margin: 0px
+    }
+
+.bandeau{   
+
+    background-color: rgb(0, 174, 255); /* Le fond de la page sera bleu  */
+    height: 100px;
+    width: 100%;
+    text-align: center; /*le texte sera centrer*/
+ }
+ .menu{
+    background-color: palevioletred;
+    height: 500px;
+    width: 25%;
+    text-align: center; 
+
+ }
+ .footer{
+    background-color:green;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+
+ }
